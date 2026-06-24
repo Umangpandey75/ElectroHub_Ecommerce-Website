@@ -157,39 +157,22 @@ Open Browser  →  Browse Products  →  Add to Cart     →  Checkout
 
 ---
 
-## 🤝 Need Help or Full Source Code?
-
-**You Can use this Beautiful Project for your college Project and get good marks too.**
-
-Email me Now at **[vatshayan007@gmail.com](mailto:vatshayan007@gmail.com)** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation, and Research paper for this project.
-
-### How to Reach me:
-- 📧 **Mail:** [vatshayan007@gmail.com](mailto:vatshayan007@gmail.com)
-- 💬 **WhatsApp:** [+91 9310631437](https://wa.me/message/CHWN2AHCPMAZK1) (Helping 24*7)
-- 🌐 **Website:** [finalproject.in](https://www.finalproject.in/)
-- 💻 **1000 CS Projects:** [computer-science-project.in](https://www.computer-science-project.in/)
-- 📺 **Web Dev Projects Playlist:** [YouTube Playlist](https://youtube.com/playlist?list=PL5g-9zkOohaFVr4-D344gUd-2vGMot-18)
-
----
-
-## 📜 License
-
-This is an **Open Source Web development Project**. Feel free to use and modify it!
-
----
-
 ## 👨‍💻 Author
 
 <div align="center">
 
-### **Sarthak / Vatshayan**
-*Web Developer*
+### **Umang Pandey**
+*Python Developer · Data Analyst · ML Engineer*
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vatshayan007@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umangpandey.co@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/CHWN2AHCPMAZK1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-pandey-01b486273)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umangpandey75)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-6AD3F7?style=for-the-badge&logo=vercel&logoColor=black)](https://umangpandey.vercel.app)
 
-*"Enjoy a safe, convenient shopping experience."*
+*"Query the data. Build the insight. Ship the WOW. ✨"*
 
 </div>
 
@@ -197,14 +180,19 @@ This is an **Open Source Web development Project**. Feel free to use and modify 
 
 ## ⭐ Show Your Support
 
-If this project helped you, please give it a ⭐ — it means a lot!
-
----
-<!-- ═══════════ FOOTER WAVE ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:563D7C,40:1572B6,70:E34F26,100:0d1117&height=120&section=footer" width="100%"/>
+If **Vocal-AI** helped you, please give it a ⭐ — it means the world!
 
 <div align="center">
 
-*Made with ❤️ for College Students*
+[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-FFD700?style=for-the-badge)](https://github.com/Umangpandey75/Vocal-AI/stargazers)
+&nbsp;
+[![Fork this repo](https://img.shields.io/badge/🍴_Fork_it-58A6FF?style=for-the-badge)](https://github.com/Umangpandey75/Vocal-AI/fork)
+&nbsp;
+[![Share on Twitter](https://img.shields.io/badge/Share_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+Vocal-AI+by+%40Umangpandey75!+%F0%9F%8E%99%EF%B8%8F%F0%9F%A4%96&url=https://github.com/Umangpandey75/Vocal-AI)
 
 </div>
+---
+<!-- ═══════════ FOOTER WAVE ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,70:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+
+<div align="center">
